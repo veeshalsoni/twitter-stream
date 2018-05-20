@@ -1,0 +1,1521 @@
+twitter-stream-reports$ python stream.py 
+Which word would you like to track?	travel
+
+
+
+
+................................................................................
+                              Report of last : 1 Minute
+................................................................................
+
+
+
+================================================================================
+                              User Report
+================================================================================
+============================================================
+Username                                 No. Of Tweets
+------------------------------------------------------------
+0417D                                    1
+116deerfield                             1
+AccTrails                                1
+Art_Quuotes                              1
+BhoorsinghCom                            1
+CaptChaos                                1
+ConniesSpot                              1
+CoolCooldealca                           1
+CyrilLAYROLLE                            1
+DLUDOGOLI                                1
+DavenTrapal                              1
+Ericmay798                               1
+GetTraAgentJobs                          1
+Hokkyoku9                                1
+HorasSumutNews6                          1
+IndayKpop101                             1
+ItsKuyaRico                              1
+LilMonster87                             1
+LotteLeicht1                             1
+Nagesh4333                               1
+Ozzytourer                               1
+PRP_FL                                   1
+PelagicDiveTrav                          1
+RichieTrujilloG                          1
+SangeetSomBJP                            1
+SnowChimmy                               1
+Sorth_Media                              1
+TracyWoody_TV                            1
+aaliyahahu                               1
+abAr9Fygk0ax7Gx                          1
+anjali_singh93                           1
+braelurie                                1
+cerg_falcone                             1
+cherylbinstock                           1
+dianaverruckt                            1
+freshers_home                            1
+gabrieladriaann                          1
+goofballgeorge                           1
+hallychodge                              1
+iamonadietnow                            1
+iamzkie26                                1
+jafoo123                                 1
+julliscotttt                             1
+katysroargasm                            1
+keico_my_c                               1
+kimahesse                                1
+kimdobin97                               1
+kimmnotpossible                          1
+llovelyjimin                             1
+mebennui                                 1
+michelle52593                            1
+micinski5                                1
+omgpenelope                              1
+pirofufu231                              1
+profession_meme                          1
+rainmakerno12                            1
+sereniteey                               1
+shashanknesara1                          1
+siddhnarain                              1
+ssull5810                                1
+techcultureblog                          1
+vaidyabr                                 1
+vijay212217                              1
+xoticvoyages                             1
+yanoak                                   1
+--------------------------------------------------------------------------------
+
+================================================================================
+                              Link Report
+================================================================================
+Total Number of Links                    : 25
+------------------------------------------------------------
+URL                                      No. Of Occurence
+------------------------------------------------------------
+http://bit.ly                            1
+http://lewsguystuff.blogspot.com         1
+http://talkyou.me                        1
+http://tinyurl.com                       1
+http://youtu.be                          1
+https://amzn.to                          1
+https://gleam.io                         1
+https://ift.tt                           1
+https://wp.me                            1
+https://www.horassumutnews.com           1
+https://www.instagram.com                1
+https://www.sanook.com                   1
+https://paper.li                         3
+https://twitter.com                      10
+--------------------------------------------------------------------------------
+
+================================================================================
+                              Content Report
+================================================================================
+Total Unique Words                       : 607
+------------------------------------------------------------
+Word                                     No. Of Occurence
+------------------------------------------------------------
+travel                                   50
+time                                     7
+see                                      6
+trump                                    6
+take                                     6
+four                                     5
+glad                                     5
+wa                                       5
+three                                    5
+regions                                  5
+--------------------------------------------------------------------------------
+
+
+
+
+................................................................................
+                              Report of last : 2 Minute
+................................................................................
+
+
+
+================================================================================
+                              User Report
+================================================================================
+============================================================
+Username                                 No. Of Tweets
+------------------------------------------------------------
+0417D                                    1
+116deerfield                             1
+4poorv4                                  1
+AccTrails                                1
+AnaCatPerry                              1
+AndyPennefather                          1
+Art_Quuotes                              1
+Au_ffray                                 1
+Berwins_Digital                          1
+BhoorsinghCom                            1
+Buoyantfeet                              1
+CaptChaos                                1
+ConniesSpot                              1
+CoolCooldealca                           2
+CraftBurgerBar1                          1
+CyrilLAYROLLE                            1
+DLUDOGOLI                                1
+DavenTrapal                              1
+Ericmay798                               1
+Eviljohnny                               1
+Fashariffin1                             1
+Furilia_com                              1
+GetTraAgentJobs                          1
+GoldSilverCounc                          1
+Hokkyoku9                                1
+HorasSumutNews6                          2
+Imran487757                              1
+IndayKpop101                             1
+ItsKuyaRico                              1
+JamesJava                                1
+JemwelPasigian2                          1
+K8_Speaks                                1
+LilMonster87                             1
+LotteLeicht1                             1
+LowLightPhotos                           1
+NC_Dragon_L                              1
+Nagesh4333                               1
+NemeziaKnits                             1
+OLSMBaseball                             1
+OmauryMarmolejo                          4
+Ozzytourer                               1
+PRP_FL                                   1
+PelagicDiveTrav                          5
+PestoChampion                            1
+RedouteyMary                             1
+RichieTrujilloG                          1
+SangeetSomBJP                            1
+ShekharRajgaria                          1
+SnowChimmy                               1
+Sorth_Media                              1
+TheCrimsonCosmo                          1
+TracyWoody_TV                            1
+TrendWerks                               1
+Tupacshukoor                             1
+WanZuhaira                               1
+aaliyahahu                               1
+abAr9Fygk0ax7Gx                          1
+adventure_ext                            1
+alespeli6                                1
+all4HOU                                  1
+anjali_singh93                           1
+arrvia443                                1
+bluefIames                               1
+braelurie                                3
+cerg_falcone                             1
+cherylbinstock                           1
+clearlighte                              1
+cooli_mann                               1
+daphne_elrod                             2
+dianaverruckt                            1
+edgery                                   1
+enjoy52life                              1
+fRtShkouRlCpLzL                          2
+fag4masc                                 1
+flashma43925155                          1
+freshers_home                            1
+gabrieladriaann                          1
+ghanaTube                                2
+giovany713                               1
+goofballgeorge                           1
+gothtaina                                1
+hallychodge                              1
+iamonadietnow                            1
+iamzkie26                                1
+iancortisian                             1
+idbcpr                                   1
+instaghanaa                              1
+ionicioiualex                            1
+isaaavasquez                             1
+itsmamaacitaa                            1
+jafoo123                                 1
+jayparrs                                 1
+julliscotttt                             1
+katysroargasm                            1
+keico_my_c                               1
+kimahesse                                1
+kimdobin97                               1
+kimmnotpossible                          1
+lawlerchuck1                             1
+llovelyjimin                             1
+maddfinnnnnnn17                          1
+madisonfren                              1
+mebennui                                 1
+michelle52593                            1
+micinski5                                1
+mohd_keri                                1
+omgpenelope                              1
+pirofufu231                              1
+piyuanker12                              1
+prettythembisi1                          1
+profession_meme                          1
+rachelxdanielle                          1
+rainmakerno12                            1
+rajivsi99211630                          1
+rheya08                                  1
+sereniteey                               1
+shahidansariz                            1
+shashanknesara1                          1
+siddhnarain                              1
+ssull5810                                1
+stephenhhall641                          1
+supermancoley1                           1
+taicheUK                                 1
+techcultureblog                          1
+the50plusnetwrk                          1
+usorinpon                                1
+vaidyabr                                 1
+vijay212217                              1
+vitali_crypto                            1
+whoshushant                              1
+xoticvoyages                             1
+yanoak                                   1
+--------------------------------------------------------------------------------
+
+================================================================================
+                              Link Report
+================================================================================
+Total Number of Links                    : 63
+------------------------------------------------------------
+URL                                      No. Of Occurence
+------------------------------------------------------------
+http://lewsguystuff.blogspot.com         1
+http://rover.ebay.com                    1
+http://talkyou.me                        1
+http://thefiftyplusnetwork.com           1
+http://tinyurl.com                       1
+http://travel.tribunnews.com             1
+http://www.ebay.com                      1
+http://youtu.be                          1
+https://curiouscat.me                    1
+https://declassifieds.info               1
+https://gleam.io                         1
+https://globalreit.io                    1
+https://idbackpacker.com                 1
+https://society6.com                     1
+https://wp.me                            1
+https://www.instagram.com                1
+https://www.sanook.com                   1
+http://bit.ly                            2
+https://amzn.to                          2
+https://www.horassumutnews.com           2
+https://paper.li                         3
+http://ghtube.com                        4
+https://ift.tt                           5
+https://twitter.com                      28
+--------------------------------------------------------------------------------
+
+================================================================================
+                              Content Report
+================================================================================
+Total Unique Words                       : 1348
+------------------------------------------------------------
+Word                                     No. Of Occurence
+------------------------------------------------------------
+travel                                   108
+trump                                    15
+time                                     13
+anywhere                                 9
+summerme                                 9
+gonna                                    9
+make                                     8
+see                                      8
+nature                                   8
+world                                    8
+--------------------------------------------------------------------------------
+
+
+
+
+................................................................................
+                              Report of last : 3 Minute
+................................................................................
+
+
+
+================================================================================
+                              User Report
+================================================================================
+============================================================
+Username                                 No. Of Tweets
+------------------------------------------------------------
+0417D                                    1
+116deerfield                             1
+1ddireccction                            1
+4poorv4                                  1
+9Clicker                                 1
+AccTrails                                1
+AjYparraguirre_                          1
+AnaCatPerry                              1
+AndyPennefather                          1
+AnnaBanana59                             1
+Art_Quuotes                              1
+ArteeDora                                1
+Au_ffray                                 1
+BSereneb                                 1
+Berwins_Digital                          1
+BhoorsinghCom                            1
+Buoyantfeet                              1
+CallMe__Classy                           1
+Camping123                               1
+CaptChaos                                1
+ConniesSpot                              1
+CoolCooldealca                           2
+CornwallFandFG                           1
+CraftBurgerBar1                          1
+CyrilLAYROLLE                            1
+DLUDOGOLI                                1
+DavenTrapal                              1
+DennisKoch10                             4
+DhongadiMahesh                           1
+DubiousCA                                1
+EricBosley4                              1
+Ericmay798                               1
+Eviljohnny                               1
+Fashariffin1                             1
+Furilia_com                              1
+GPBGeorge                                1
+GetTraAgentJobs                          1
+GhastEald                                1
+GoldSilverCounc                          1
+GreatMarkt                               4
+GreyLion3                                1
+Guizhou_Jobs                             1
+Hokkyoku9                                1
+HorasSumutNews6                          3
+I_am_Aman_Kumar                          1
+Imran487757                              1
+IndayKpop101                             1
+ItsKuyaRico                              1
+JCC_4NC                                  1
+JamesJava                                1
+JeanaTravels                             1
+JemwelPasigian2                          1
+Jon6705                                  1
+K8_Speaks                                1
+KataReignHeart                           1
+KikisTime                                1
+Kimjong83506218                          1
+KirwaAndrew                              1
+LaredoTXJobs                             2
+LastKing_Breezy                          1
+LensLucas                                1
+LilMonster87                             1
+LotteLeicht1                             1
+LowLightPhotos                           1
+MINISEOK__                               1
+MosesWatasa                              1
+NC_Dragon_L                              1
+Nagesh4333                               1
+NemeziaKnits                             1
+NewBooks4You                             1
+Nugghettoooo_K                           1
+OLSMBaseball                             1
+OmauryMarmolejo                          4
+Ozzytourer                               1
+PRP_FL                                   1
+PelagicDiveTrav                          6
+PestoChampion                            1
+RShizuo                                  1
+RedouteyMary                             1
+RichieTrujilloG                          1
+Rollin_Red_                              1
+SSeenceH                                 1
+Sanchit1717                              1
+SangeetSomBJP                            1
+SharerUssharing                          1
+ShekharRajgaria                          1
+SilverTravelAd                           1
+SnowChimmy                               1
+Sorth_Media                              1
+StarLuhannie                             1
+Strainer12                               1
+SwamiPande                               1
+TheCrimsonCosmo                          1
+TheGaryTrotter                           1
+TracyWoody_TV                            1
+TrendWerks                               1
+Tupacshukoor                             1
+VirtualFrankie                           1
+WanZuhaira                               1
+WayneTrotman                             1
+YvesMulkers                              1
+ZingZongZang                             1
+_leislife                                1
+aaliyahahu                               1
+abAr9Fygk0ax7Gx                          1
+adventure_ext                            1
+aizawakaede                              1
+alespeli6                                1
+all4HOU                                  1
+anjali_singh93                           1
+anuragkumarlko                           1
+arinako2                                 1
+arrvia443                                1
+ashcharya_dubey                          1
+blaza692                                 1
+bluefIames                               1
+bodaciousddl                             1
+braelurie                                4
+brentbirckhead                           1
+campingzilla                             1
+cerg_falcone                             1
+cherylbinstock                           1
+clearlighte                              1
+cmpdragon                                1
+coolboi567                               1
+cooli_mann                               1
+coopies_melb                             1
+cryptoadam87                             1
+daphne_elrod                             2
+dianaverruckt                            1
+edgery                                   1
+enjoy52life                              1
+fRtShkouRlCpLzL                          2
+fabienjordan859                          1
+fag4masc                                 1
+flashma43925155                          1
+freshers_home                            1
+gabrieladriaann                          1
+gerhard2709                              1
+getthatrightgtr                          1
+ghanaTube                                2
+giovany713                               1
+goofballgeorge                           1
+gothtaina                                1
+gypsynester                              1
+hallychodge                              1
+hashtagsfilms                            1
+hoxucc                                   1
+iamonadietnow                            1
+iamzkie26                                1
+iancortisian                             1
+idbcpr                                   1
+instaghanaa                              1
+ionicioiualex                            1
+isaaavasquez                             1
+itsmamaacitaa                            1
+iu65t                                    1
+jafoo123                                 2
+jayparrs                                 1
+jobs4HOU                                 1
+julliscotttt                             1
+katysroargasm                            1
+kavifuth                                 1
+keico_my_c                               1
+kidsareatrip                             1
+kimahesse                                1
+kimdobin97                               1
+kimmnotpossible                          1
+kmtsudhir06                              1
+krisbantho                               1
+lawlerchuck1                             1
+licayfab                                 1
+llovelyjimin                             1
+lxvxlyjimin                              1
+maddfinnnnnnn17                          1
+madisonfren                              1
+mebennui                                 1
+michelle52593                            1
+micinski5                                1
+mikedbrook                               1
+mohd_keri                                1
+nrlfdhlnd                                1
+omgpenelope                              1
+pdeblassieiii                            1
+pinnovation                              1
+pirofufu231                              1
+piyuanker12                              1
+prettythembisi1                          1
+profession_meme                          1
+rachelxdanielle                          1
+rainmakerno12                            1
+rajivsi99211630                          1
+rheya08                                  1
+rjoshuad27                               1
+sanjeevchadha8                           1
+sereniteey                               1
+shahidansariz                            1
+shashanknesara1                          1
+siddhnarain                              1
+ssull5810                                1
+stephenhhall641                          1
+storelatinabr                            1
+supermancoley1                           1
+suteki_turuoka                           1
+taicheUK                                 1
+techcultureblog                          1
+the50plusnetwrk                          1
+tomlinsaint                              1
+tripleJsandME                            1
+unrealshots                              1
+usorinpon                                1
+vaidyabr                                 1
+vijay212217                              1
+vitali_crypto                            1
+walldan3                                 1
+wanmata1208                              1
+whoshushant                              1
+x27e77258bk6u8                           1
+xneedoned                                1
+xo_maritzaaaa_                           1
+xoticvoyages                             1
+yanoak                                   2
+yeonpilpath                              1
+yhFei                                    1
+--------------------------------------------------------------------------------
+
+================================================================================
+                              Link Report
+================================================================================
+Total Number of Links                    : 111
+------------------------------------------------------------
+URL                                      No. Of Occurence
+------------------------------------------------------------
+http://Roomdao.io                        1
+http://asahichinese-j.com                1
+http://lewsguystuff.blogspot.com         1
+http://m.oksusu.com                      1
+http://mybook.to                         1
+http://pigg.ameba.jp                     1
+http://roaming-jewel.com                 1
+http://rover.ebay.com                    1
+http://thefiftyplusnetwork.com           1
+http://tinyurl.com                       1
+http://travel.tribunnews.com             1
+http://www.chiwholeleaf.com              1
+http://www.ebay.com                      1
+http://youtu.be                          1
+https://curiouscat.me                    1
+https://declassifieds.info               1
+https://gleam.io                         1
+https://globalreit.io                    1
+https://idbackpacker.com                 1
+https://society6.com                     1
+https://wp.me                            1
+https://www.getthatright.com             1
+https://www.sanook.com                   1
+http://talkyou.me                        2
+https://amzn.to                          2
+https://buff.ly                          2
+https://www.instagram.com                2
+https://www.facebook.com                 3
+https://www.horassumutnews.com           3
+http://ghtube.com                        4
+https://paper.li                         5
+http://bit.ly                            8
+https://ift.tt                           8
+https://twitter.com                      49
+--------------------------------------------------------------------------------
+
+================================================================================
+                              Content Report
+================================================================================
+Total Unique Words                       : 2347
+------------------------------------------------------------
+Word                                     No. Of Occurence
+------------------------------------------------------------
+travel                                   189
+trump                                    27
+world                                    23
+see                                      17
+nature                                   14
+like                                     14
+time                                     13
+new                                      12
+anywhere                                 12
+summerme                                 12
+--------------------------------------------------------------------------------
+
+
+
+
+................................................................................
+                              Report of last : 4 Minute
+................................................................................
+
+
+
+================================================================================
+                              User Report
+================================================================================
+============================================================
+Username                                 No. Of Tweets
+------------------------------------------------------------
+0417D                                    1
+116deerfield                             1
+1ddireccction                            1
+4poorv4                                  1
+9Clicker                                 1
+AccTrails                                1
+AdrianaCioci                             1
+AjYparraguirre_                          1
+AlwaysBeenMe_                            1
+AnaCatPerry                              1
+AndyPennefather                          1
+AnnaBanana59                             1
+Anonagain1                               1
+Art_Quuotes                              1
+ArteeDora                                1
+Au_ffray                                 1
+BSereneb                                 1
+B_Ubiquitous                             1
+BacacaoGing                              1
+BarryByrneIRL                            1
+BeingSentinel                            1
+Berwins_Digital                          1
+Best_of_Tara                             1
+BhoorsinghCom                            1
+Buoyantfeet                              1
+CallMe__Classy                           1
+Camping123                               1
+CaptChaos                                1
+Climate_ch                               1
+ConniesSpot                              2
+CoolCooldealca                           2
+CornwallFandFG                           1
+CraftBurgerBar1                          1
+CumbriaWeather                           1
+CyrilLAYROLLE                            1
+DADDY_2150                               1
+DLUDOGOLI                                1
+DavenTrapal                              1
+DennisKoch10                             4
+DhongadiMahesh                           1
+DubiousCA                                1
+EricBosley4                              1
+Ericmay798                               1
+Eviljohnny                               1
+Fame_Dubai                               1
+Fashariffin1                             1
+Furilia_com                              1
+GNRailUK                                 1
+GPBGeorge                                1
+Gaabbs_123                               1
+GetTraAgentJobs                          1
+GhastEald                                1
+GhazalTravel                             1
+GoldSilverCounc                          1
+GreatMarkt                               4
+GreyLion3                                1
+Guizhou_Jobs                             1
+HerdadeFozdaRep                          1
+HiranokuIrifune                          1
+Hokkyoku9                                1
+HorasSumutNews6                          3
+I_am_Aman_Kumar                          1
+Imran487757                              1
+IndayKpop101                             1
+InkMetabolic                             1
+ItsKuyaRico                              1
+JCC_4NC                                  1
+Jaemi__V                                 1
+JamesJava                                2
+JeanaTravels                             1
+JemwelPasigian2                          1
+Jon6705                                  1
+K8_Speaks                                1
+KABIR03000                               1
+KataReignHeart                           1
+KevinWhitey                              1
+KikisTime                                1
+Kimjong83506218                          1
+KirwaAndrew                              1
+KodaLow                                  1
+LaredoTXJobs                             2
+LastKing_Breezy                          1
+LaurenCholette                           1
+LensLucas                                1
+LilMonster87                             1
+LotteLeicht1                             1
+LowLightPhotos                           1
+MAGATrump_1                              1
+MINISEOK__                               1
+Make_u2_happy                            1
+MelodyWyles                              1
+MightyCrusader                           1
+Minfanfann                               1
+MosesWatasa                              1
+NC_Dragon_L                              1
+Nagesh4333                               1
+NemeziaKnits                             1
+NewBooks4You                             1
+Nugghettoooo_K                           1
+OLSMBaseball                             1
+OmauryMarmolejo                          4
+Omuzibuwaalu                             1
+Ozzytourer                               1
+PRP_FL                                   1
+PapaBearDee2                             1
+PelagicDiveTrav                          7
+PestoChampion                            1
+ROHITKU02197979                          1
+RShizuo                                  1
+RahulS7mariner                           1
+Ram4Bharatiyata                          1
+RedouteyMary                             1
+RichieTrujilloG                          1
+RobertJohanse10                          1
+Rollin_Red_                              1
+RussianHashtags                          1
+SSeenceH                                 1
+SallyannLamoin                           1
+Sanchit1717                              1
+SangeetSomBJP                            1
+SharerUssharing                          1
+ShekharRajgaria                          1
+SilverTravelAd                           1
+SnowChimmy                               1
+Sorth_Media                              1
+StarLuhannie                             1
+Strainer12                               1
+SwamiPande                               1
+TheCrimsonCosmo                          1
+TheGaryTrotter                           1
+TracyWoody_TV                            1
+TrendWerks                               1
+TrudiVirhoivin6                          1
+Tupacshukoor                             1
+VioletaGudaite                           1
+VirtualFrankie                           1
+WanZuhaira                               1
+WayneTrotman                             1
+WebDesignerQ8                            1
+WorkPortStLucie                          1
+YvesMulkers                              1
+ZhulEnSuHabitat                          1
+ZingZongZang                             1
+ZolazaraCom                              1
+_YogendraYadav                           1
+___shar0n___                             1
+_clxrpadwx                               1
+_junhuiwen                               1
+_leislife                                1
+_thxg_                                   1
+aaliyahahu                               1
+abAr9Fygk0ax7Gx                          1
+achimma_                                 1
+adventure_ext                            1
+aizawakaede                              1
+akosiricarubia                           1
+alespeli6                                1
+aliciamin0032                            1
+all4HOU                                  1
+amirul94youl                             1
+an0182                                   1
+anjali_singh93                           1
+anuragkumarlko                           1
+arinako2                                 1
+arrvia443                                1
+ashcharya_dubey                          1
+blaza692                                 1
+bluefIames                               1
+bodaciousddl                             1
+braelurie                                4
+brentbirckhead                           1
+brockhabstract                           1
+campingzilla                             1
+celebritracker                           1
+cerg_falcone                             1
+challikins                               1
+cherylbinstock                           1
+chrisnagalano                            1
+clearlighte                              1
+cmpdragon                                1
+coolboi567                               1
+cooli_mann                               1
+coopies_melb                             1
+cryptoadam87                             1
+daphne_elrod                             2
+deelishrecipes                           1
+dianaverruckt                            1
+edencyclingbore                          1
+edgery                                   1
+enjoy52life                              1
+extrasuga__                              1
+fRtShkouRlCpLzL                          2
+fabienjordan859                          3
+fag4masc                                 1
+feryooit                                 1
+flashma43925155                          1
+freshers_home                            1
+gabrieladriaann                          1
+gerhard2709                              1
+getthatrightgtr                          1
+ghanaTube                                2
+giovany713                               1
+goofballgeorge                           1
+gothtaina                                1
+gypsynester                              1
+hallychodge                              1
+hashtagsfilms                            1
+haziqahkmrzzmn                           1
+hoxucc                                   1
+iamjl1                                   1
+iamonadietnow                            1
+iamzkie26                                1
+iancortisian                             1
+idbcpr                                   1
+instaghanaa                              1
+ionicioiualex                            1
+irmedaca                                 1
+isaaavasquez                             1
+itsmamaacitaa                            1
+iu65t                                    1
+jafoo123                                 2
+jayparrs                                 1
+jdjongumzidenga                          1
+jjjin15                                  1
+jobs4HOU                                 1
+jobse                                    1
+julliscotttt                             1
+karryontravel                            1
+katysroargasm                            1
+kavifuth                                 1
+kawaii_wasabi                            1
+keico_my_c                               1
+kianakauai                               1
+kidsareatrip                             1
+kimahesse                                1
+kimdobin97                               1
+kimmnotpossible                          1
+kmtsudhir06                              1
+krisbantho                               1
+kypros_47                                1
+lawlerchuck1                             1
+licayfab                                 1
+llovelyjimin                             1
+luda7171                                 1
+lxvxlyjimin                              1
+maddfinnnnnnn17                          1
+madisonfren                              1
+malated                                  1
+masmasri                                 1
+mebennui                                 1
+michelle52593                            1
+micinski5                                1
+mikedbrook                               1
+mohd_keri                                1
+mvamor                                   1
+nrlfdhlnd                                1
+omgpenelope                              1
+pdeblassieiii                            1
+pennyverfaillie                          1
+pinnovation                              1
+pirofufu231                              1
+piyuanker12                              2
+prettythembisi1                          1
+profession_meme                          1
+rachelxdanielle                          1
+rainmakerno12                            1
+rajivsi99211630                          1
+rheya08                                  1
+rjoshuad27                               1
+sanjeevchadha8                           1
+sereniteey                               1
+shahidansariz                            1
+shanu_sahota                             1
+shashanknesara1                          1
+siddhnarain                              1
+sony_innovation                          1
+ssull5810                                1
+stephenhhall641                          1
+storelatinabr                            1
+strong_relation                          1
+suman2801                                1
+supermancoley1                           1
+suteki_turuoka                           1
+taicheUK                                 1
+techcultureblog                          1
+testcloo                                 1
+the50plusnetwrk                          1
+the__rumour                              1
+thy_art_is_cats                          1
+tomlinsaint                              1
+tripleJsandME                            1
+unrealshots                              1
+usorinpon                                1
+vaidyabr                                 1
+vickyecho                                1
+vijay212217                              1
+vitali_crypto                            1
+walldan3                                 1
+wallpaperable                            1
+wanmata1208                              1
+whoshushant                              1
+x27e77258bk6u8                           1
+xneedoned                                1
+xo_maritzaaaa_                           1
+xoticvoyages                             1
+xxnabilah_08                             1
+yanoak                                   2
+yeonpilpath                              1
+yhFei                                    1
+--------------------------------------------------------------------------------
+
+================================================================================
+                              Link Report
+================================================================================
+Total Number of Links                    : 150
+------------------------------------------------------------
+URL                                      No. Of Occurence
+------------------------------------------------------------
+http://Roomdao.io                        1
+http://asahichinese-j.com                1
+http://dld.bz                            1
+http://invl.co                           1
+http://m.oksusu.com                      1
+http://mybook.to                         1
+http://pigg.ameba.jp                     1
+http://roaming-jewel.com                 1
+http://rover.ebay.com                    1
+http://thefiftyplusnetwork.com           1
+http://tinyurl.com                       1
+http://tubemapper.com                    1
+http://www.chiwholeleaf.com              1
+http://www.ebay.com                      1
+http://www.freepressjournal.in           1
+http://youtu.be                          1
+https://beta.greatnorthernrail.com       1
+https://curiouscat.me                    1
+https://declassifieds.info               1
+https://globalreit.io                    1
+https://goo.gl                           1
+https://idbackpacker.com                 1
+https://society6.com                     1
+https://wp.me                            1
+https://www.getthatright.com             1
+https://www.sanook.com                   1
+https://www.vogue.co.jp                  1
+http://lewsguystuff.blogspot.com         2
+http://talkyou.me                        2
+http://travel.tribunnews.com             2
+https://amzn.to                          2
+https://buff.ly                          2
+https://gleam.io                         2
+https://www.instagram.com                2
+https://www.horassumutnews.com           3
+http://ghtube.com                        4
+https://www.facebook.com                 5
+https://paper.li                         7
+https://ift.tt                           9
+http://bit.ly                            12
+https://twitter.com                      69
+--------------------------------------------------------------------------------
+
+================================================================================
+                              Content Report
+================================================================================
+Total Unique Words                       : 3166
+------------------------------------------------------------
+Word                                     No. Of Occurence
+------------------------------------------------------------
+travel                                   254
+trump                                    44
+world                                    28
+see                                      23
+anywhere                                 19
+summerme                                 19
+gonna                                    19
+nature                                   18
+new                                      17
+time                                     16
+--------------------------------------------------------------------------------
+
+
+
+
+................................................................................
+                              Report of last : 5 Minute
+................................................................................
+
+
+
+================================================================================
+                              User Report
+================================================================================
+============================================================
+Username                                 No. Of Tweets
+------------------------------------------------------------
+0417D                                    1
+116deerfield                             1
+1ddireccction                            1
+4poorv4                                  1
+9Clicker                                 1
+AccTrails                                1
+AdrianaCioci                             1
+AjYparraguirre_                          1
+AlwaysBeenMe_                            1
+AnaCatPerry                              1
+AndersonWorld1                           1
+AndyPennefather                          1
+AnnaBanana59                             1
+Anonagain1                               1
+Art_Quuotes                              1
+ArteeDora                                1
+AsifHameef                               1
+Au_ffray                                 1
+BSereneb                                 1
+B_Ubiquitous                             1
+BacacaoGing                              1
+BallerTolbert24                          1
+BarryByrneIRL                            1
+BeingSentinel                            1
+Berwins_Digital                          1
+BestTPictures                            1
+Best_of_Tara                             2
+BhoorsinghCom                            1
+BloggyBarbie                             1
+Buoyantfeet                              1
+CallMe__Classy                           1
+Camping123                               1
+CaptChaos                                1
+Climate_ch                               1
+ConniesSpot                              2
+CoolCooldealca                           2
+CornwallFandFG                           1
+CraftBurgerBar1                          1
+CumbriaWeather                           1
+CyrilLAYROLLE                            1
+DADDY_2150                               1
+DLUDOGOLI                                1
+DavenTrapal                              1
+DennisKoch10                             4
+DhongadiMahesh                           1
+DubiousCA                                1
+EgGrinddeathpop                          1
+EricBosley4                              1
+Ericmay798                               1
+Eviljohnny                               1
+Ezi_Bekee                                1
+Fame_Dubai                               1
+Fashariffin1                             1
+FrankJannuzi                             1
+Furilia_com                              1
+GNRailUK                                 1
+GPBGeorge                                1
+Gaabbs_123                               1
+GetTraAgentJobs                          1
+GetlifeStyles                            1
+GhastEald                                1
+GhazalTravel                             1
+GoldSilverCounc                          1
+GreatMarkt                               4
+GreyLion3                                1
+GriseldaCdF                              1
+Guizhou_Jobs                             1
+GunGuy14                                 1
+HCSMnews                                 1
+HerdadeFozdaRep                          1
+HiranokuIrifune                          1
+Hokkyoku9                                1
+HorasSumutNews6                          3
+HuiCouture                               1
+IMthebanjoboy                            1
+I_am_Aman_Kumar                          1
+Imran487757                              1
+IndayKpop101                             1
+InkMetabolic                             1
+IntuitDev                                1
+ItsKuyaRico                              1
+JCC_4NC                                  1
+Jaemi__V                                 1
+JamesJava                                5
+JeanaTravels                             1
+JemwelPasigian2                          1
+JenPurtell                               1
+JiyaShailesh                             1
+Jon6705                                  1
+JonSchnitt                               1
+K8_Speaks                                1
+KABIR03000                               1
+KataReignHeart                           1
+KevinWhitey                              1
+KikisTime                                1
+Kimjong83506218                          1
+KirwaAndrew                              1
+KodaLow                                  1
+LaredoTXJobs                             2
+LastKing_Breezy                          1
+LaurenCholette                           1
+LensLucas                                1
+LilMonster87                             1
+LotteLeicht1                             1
+LowLightPhotos                           1
+MAGATrump_1                              1
+MINISEOK__                               1
+MStrabala                                1
+Make_u2_happy                            1
+MelodyWyles                              1
+Mermaid05inn                             1
+MightyCrusader                           1
+Minfanfann                               1
+MongolSonom                              1
+MosesWatasa                              1
+NC_Dragon_L                              1
+Nagesh4333                               1
+NemeziaKnits                             1
+NewBooks4You                             1
+Nugghettoooo_K                           1
+OLSMBaseball                             1
+ONEMODERNMADMAN                          1
+OmauryMarmolejo                          4
+Omuzibuwaalu                             1
+Ozzytourer                               1
+PRP_FL                                   1
+PapaBearDee2                             1
+PelagicDiveTrav                          7
+PestoChampion                            1
+Pics500px                                1
+PrabhatTw                                1
+RJVizuals                                1
+ROHITKU02197979                          1
+RShizuo                                  1
+Rageneo                                  1
+RahulS7mariner                           1
+Ram4Bharatiyata                          1
+RedouteyMary                             1
+RichieTrujilloG                          1
+RobertJohanse10                          1
+RobinnSmith                              1
+Rollin_Red_                              1
+RussianHashtags                          1
+SSeenceH                                 1
+SallyannLamoin                           1
+Sanchit1717                              1
+SangeetSomBJP                            1
+SavvyNavigator                           1
+SharerUssharing                          1
+ShekharRajgaria                          1
+SilverTravelAd                           1
+SleekDeals                               1
+SmartTrails                              2
+SnowChimmy                               1
+Sorth_Media                              1
+StarLuhannie                             1
+Strainer12                               1
+SwamiPande                               1
+TRAVELCAFE_tc                            1
+TheCrimsonCosmo                          1
+TheGaryTrotter                           1
+TracyWoody_TV                            1
+TrendWerks                               1
+TrudiVirhoivin6                          1
+Tupacshukoor                             1
+VeannaftEXO                              1
+VioletaGudaite                           1
+VirtualFrankie                           1
+WanZuhaira                               1
+WaresWaterfront                          1
+WayneTrotman                             1
+WebDesignerQ8                            1
+WorkPortStLucie                          1
+XLNC8                                    1
+YvesMulkers                              1
+ZhulEnSuHabitat                          1
+ZingZongZang                             1
+ZolazaraCom                              1
+_YogendraYadav                           1
+___shar0n___                             1
+_brianareed_                             1
+_clxrpadwx                               1
+_diana_santos                            1
+_junhuiwen                               1
+_leislife                                1
+_thxg_                                   1
+aaliyahahu                               1
+abAr9Fygk0ax7Gx                          1
+achimma_                                 1
+adventure_ext                            1
+aizawakaede                              1
+akosiricarubia                           1
+alespeli6                                1
+aliciamin0032                            1
+all4HOU                                  1
+amirul94youl                             1
+an0182                                   1
+anjali_singh93                           1
+anuragkumarlko                           1
+arinako2                                 1
+arrvia443                                2
+ashcharya_dubey                          1
+asolondon                                1
+azeltkr                                  1
+bendragonborn                            1
+blaza692                                 1
+bluefIames                               1
+bmthbloggers                             1
+bodaciousddl                             1
+braelurie                                4
+brentbirckhead                           1
+brockhabstract                           1
+campingzilla                             1
+celebritracker                           1
+cerg_falcone                             1
+challikins                               1
+chelsncheese327                          1
+cherylbinstock                           1
+cheskellon                               1
+chrisnagalano                            1
+claudosky                                1
+clearlighte                              1
+cmpdragon                                1
+coolboi567                               1
+cooli_mann                               1
+coopies_melb                             1
+cryptoadam87                             1
+daphne_elrod                             2
+deelishrecipes                           1
+dianaverruckt                            1
+edencyclingbore                          1
+edgery                                   1
+elproximoviaje                           1
+enjoy52life                              1
+extrasuga__                              1
+fRtShkouRlCpLzL                          2
+fabienjordan859                          3
+fag4masc                                 1
+feryooit                                 1
+flashma43925155                          1
+freshers_home                            1
+gabbysparkles8                           1
+gabrieladriaann                          1
+gerhard2709                              1
+getthatrightgtr                          1
+ghanaTube                                2
+giovany713                               1
+goofballgeorge                           1
+gothtaina                                1
+gypsynester                              1
+hallychodge                              1
+hashtagsfilms                            1
+haziqahkmrzzmn                           1
+hoxucc                                   1
+iamjl1                                   1
+iamonadietnow                            1
+iamsahotakaran                           1
+iamzkie26                                1
+iancortisian                             1
+idbcpr                                   1
+instaghanaa                              1
+ionicioiualex                            1
+irmedaca                                 1
+isaaavasquez                             1
+isufyen                                  1
+itsmamaacitaa                            1
+iu65t                                    1
+iycmahe                                  1
+jafoo123                                 2
+jamelamichelle                           1
+jayparrs                                 1
+jdjongumzidenga                          1
+jela9ja                                  1
+jinshka                                  1
+jjjin15                                  1
+jobs4HOU                                 1
+jobse                                    1
+jonaolaechea                             1
+julliscotttt                             1
+karryontravel                            1
+katysroargasm                            1
+kavifuth                                 1
+kawaii_wasabi                            1
+keico_my_c                               1
+kianakauai                               1
+kidsareatrip                             1
+kidtravel                                1
+kimahesse                                1
+kimdobin97                               1
+kimmnotpossible                          1
+kingtimori                               1
+kmtsudhir06                              1
+krisbantho                               1
+kypros_47                                1
+lawlerchuck1                             1
+licayfab                                 1
+linaeeee_22                              1
+llovelyjimin                             1
+louirisse                                1
+lucsft                                   1
+luda7171                                 1
+lxvxlyjimin                              1
+maddfinnnnnnn17                          1
+madisonfren                              1
+malated                                  1
+mannyengles                              1
+masmasri                                 1
+maxxrios__                               1
+mebennui                                 1
+michelle52593                            1
+michh_nicole                             1
+micinski5                                1
+mikedbrook                               1
+mohd_keri                                1
+mtcedar1972                              1
+muramasamune77                           1
+mvamor                                   1
+nariji21                                 2
+nbhrzmn                                  1
+nrlfdhlnd                                1
+omgpenelope                              1
+pdeblassieiii                            1
+pennyverfaillie                          1
+photosofcyprus                           1
+pinnovation                              1
+pirofufu231                              1
+pixiedoespop                             1
+piyuanker12                              2
+poojahegdeHCF                            1
+prettythembisi1                          1
+profession_meme                          1
+queeniekimi                              1
+rachelxdanielle                          1
+rainmakerno12                            1
+rajivsi99211630                          1
+rcrawson1                                1
+rheya08                                  1
+rjoshuad27                               1
+roba2099                                 1
+robbyj62                                 1
+sanjeevchadha8                           1
+savonparadis                             1
+sereniteey                               1
+shafqatali1994                           1
+shahidansariz                            1
+shanu_sahota                             1
+shashanknesara1                          1
+siddhnarain                              1
+sony_innovation                          1
+ssull5810                                1
+ssupgangx                                1
+stephenhhall641                          1
+storelatinabr                            1
+strong_relation                          1
+suman2801                                1
+supermancoley1                           1
+suteki_turuoka                           1
+taicheUK                                 1
+techcultureblog                          1
+testcloo                                 1
+the50plusnetwrk                          1
+the__rumour                              1
+thy_art_is_cats                          1
+tinazwill                                1
+tomlinsaint                              1
+trapplarrd                               1
+tripleJsandME                            1
+unrealshots                              1
+usorinpon                                1
+vaidyabr                                 1
+vickyecho                                1
+vijay212217                              1
+viral_hug                                1
+vitali_crypto                            1
+walldan3                                 1
+wallpaperable                            1
+wanmata1208                              1
+whoshushant                              1
+x27e77258bk6u8                           1
+xneedoned                                1
+xo_maritzaaaa_                           1
+xoticvoyages                             1
+xxnabilah_08                             1
+yanoak                                   2
+yeonpilpath                              1
+yhFei                                    1
+yxintian                                 1
+--------------------------------------------------------------------------------
+
+================================================================================
+                              Link Report
+================================================================================
+Total Number of Links                    : 191
+------------------------------------------------------------
+URL                                      No. Of Occurence
+------------------------------------------------------------
+http://Roomdao.io                        1
+http://asahichinese-j.com                1
+http://cultures.Be                       1
+http://dld.bz                            1
+http://ift.tt                            1
+http://invl.co                           1
+http://m.oksusu.com                      1
+http://mybook.to                         1
+http://pigg.ameba.jp                     1
+http://roaming-jewel.com                 1
+http://rover.ebay.com                    1
+http://rviv.ly                           1
+http://thefiftyplusnetwork.com           1
+http://tinyurl.com                       1
+http://tubemapper.com                    1
+http://urbanislander.co.jp               1
+http://vancouversun.com                  1
+http://wp.me                             1
+http://www.chiwholeleaf.com              1
+http://www.cyprusexpat.co.uk             1
+http://www.ebay.com                      1
+http://www.enca.com                      1
+http://www.freepressjournal.in           1
+http://www.planetnews.space              1
+http://www.travel-cafe.jp                1
+http://www.travelagewest.com             1
+http://youtu.be                          1
+https://beta.greatnorthernrail.com       1
+https://curiouscat.me                    1
+https://declassifieds.info               1
+https://gigazine.net                     1
+https://globalreit.io                    1
+https://goo.gl                           1
+https://idbackpacker.com                 1
+https://japantoday.com                   1
+https://lght.ly                          1
+https://siennylovesdrawing.wordpress.com 1
+https://society6.com                     1
+https://waterfrontwares.com              1
+https://wp.me                            1
+https://www.cnn.com                      1
+https://www.getthatright.com             1
+https://www.sanook.com                   1
+https://www.vogue.co.jp                  1
+https://youtu.be                         1
+http://lewsguystuff.blogspot.com         2
+http://talkyou.me                        2
+http://travel.tribunnews.com             2
+http://www.casslake.com                  2
+https://amzn.to                          2
+https://buff.ly                          2
+https://gleam.io                         2
+https://viralhug.com                     2
+https://www.instagram.com                2
+https://www.horassumutnews.com           3
+http://ghtube.com                        4
+https://www.facebook.com                 5
+https://paper.li                         7
+https://ift.tt                           9
+http://bit.ly                            12
+https://twitter.com                      88
+--------------------------------------------------------------------------------
+
+================================================================================
+                              Content Report
+================================================================================
+Total Unique Words                       : 3912
+------------------------------------------------------------
+Word                                     No. Of Occurence
+------------------------------------------------------------
+travel                                   306
+trump                                    54
+world                                    36
+see                                      31
+nature                                   21
+anywhere                                 21
+summerme                                 21
+gonna                                    21
+like                                     21
+new                                      19
+--------------------------------------------------------------------------------
+(vern) ]0;vishal@Vishal: ~/projects/twitter-stream-reportsvishal@Vishal:~/projects/twitter-stream-reports$ exit
+exit
+
