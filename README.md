@@ -8,6 +8,5 @@ You will need consumer key, token and other necessary details, get it from [here
 
     git clone https://github.com/veeshalsoni/twitter-stream.git
     pip install requirement.txt
-    python stream.py
-
-    
+    python stream.py minutes_to_run interval
+    ex. python stream.py 10 5

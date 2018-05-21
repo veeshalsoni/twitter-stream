@@ -1,8 +1,9 @@
+import sys
 from tweepy import OAuthHandler, Stream
 from tweepy.streaming import StreamListener
 import threading
 import time
-from os import remove
+from os import remove,stat
 import re
 import dataset
 import collections
@@ -15,28 +16,34 @@ class tweetStreamer(StreamListener):
 		super(tweetStreamer, self).__init__()
 
 	def on_status(self, status):
-		if time.time() - self.startTime > self.limit:
+		current_time = time.time()
+		if current_time - self.startTime > self.limit:
 			return False
 
 		tweetTable = db['tweetTable']
-		tweetTable.insert(dict(username = status.user.screen_name, tweet = status.text))
+		tweetTable.insert(dict(username = status.user.screen_name, tweet = status.text, minute = int((current_time - self.startTime)/60)))
 
 		#recording urls without Username as only urls are needed
 		if len(status.entities['urls']) > 0:
 			for url in status.entities['urls']:
 				urlTable = db['urlTable']
-				urlTable.insert(dict(url=url['expanded_url']))
+				urlTable.insert(dict(url=url['expanded_url'], minute = int((current_time - self.startTime)/60)))
 
 		return True
 
 	def on_error(self, status_code):
-		print "API Limit Reached, Please try after sometime"
+		print "Some error occured(API Limit Reached or wrong config file)"
 		if status_code == 420:
 			return False
 
 
-def print_report(db):
+def print_report(i,interval):
 	db = dataset.connect('sqlite:///test.db')
+	current_run = 0 if i < interval else i - interval
+
+	if current_run:
+		db.query("delete from tweetTable where minute < " + str(current_run))
+		db.query("delete from urlTable where minute < " + str(current_run))
 
 	#User Report
 	result = db.query('select username,count(*) cnt from tweetTable GROUP BY username')
@@ -106,6 +113,12 @@ def print_report(db):
 		print "{:40s} {}".format(word,count)
 	print "-"*80
 
+if len(sys.argv) != 3:
+	print "Usage : python stream.py minutes_to_run interval"
+	sys.exit(1)
+
+
+#reading necessary details from config file
 config = ConfigParser.ConfigParser()
 config.read("app.cfg")
 
@@ -115,20 +128,26 @@ access_token = config.get("config","access_token")
 access_token_secret = config.get("config","access_token_secret")
 
 if __name__ == '__main__':
+	#Basic data initialization
 	trackword = raw_input("Which word would you like to track?\t")
-	minutes_to_run = 5
+	minutes_to_run = int(sys.argv[1])
+	interval = int(sys.argv[2])
+	db = dataset.connect('sqlite:///test.db')
+
+	#Streamer
 	streamer =  tweetStreamer(minutes_to_run*60)
 	auth = OAuthHandler(consumer_key, consumer_secret)
 	auth.set_access_token(access_token, access_token_secret)
 
-	db = dataset.connect('sqlite:///test.db')
+	#Streamer Thread
 	stream = Stream(auth,streamer)
 	t = threading.Thread(target = stream.filter,kwargs = {'track' : [trackword]})
 	t.deamon = True
 	t.start()
 
+	#Reports
 	for i in range(minutes_to_run):
 		time.sleep(60)
-		print "\n\n\n\n" + "."*80 + "\n" + " "*30 + "Report of last : " +  str(i+1) +" Minute\n" + "."*80 + "\n\n"
-		print_report(db)
+		print "\n\n\n\n" + "."*80 + "\n" + " "*30 + "Report of : " + str(0 if i < (interval -1) else i - (interval - 1)) + "-" + str(i+1) +" Minute\n" + "."*80 + "\n\n"
+		print_report(i+1,interval)
 	remove('test.db')
